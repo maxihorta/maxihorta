@@ -44,7 +44,9 @@ Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar
 Entre estas herramientas, también dispongo de conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
 
 Además, tengo experiencia en herramientas de diseño como Photoshop, Figma entre otras.
-
+<p align="center">
+  <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
+</p>
 ## ¡No dudes en contactarme!
 
 <p align="left">
