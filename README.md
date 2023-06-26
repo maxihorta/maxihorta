@@ -1,10 +1,15 @@
-# Hola! 👋 Soy Maximiliano Horta 🌌
+## **¿Quién soy?**
+Soy un **Programador** ***Fullstack*** orientado al mundo del ***Front-end***.
 
-## ☄️ Sobre mi:
-- Soy Full Stack Developer 💻.
-- Actualmente resido en Argentina.
-- En busqueda de empleo.
+Desde niño siempre fui muy curioso acerca del por qué de las cosas. Cuando mis padres me preguntaban qué quería ser cuando sea grande, yo les respondía que quería ser creador de juegos. Esa pasión la tengo presente hasta la actualidad y es a lo que me quiero dedicar.
 
+## **¿Qué hago?**
+Actualmente me estoy enfocando en realizar proyectos que me permitan formarme como programador. **Siempre busco trabajar en equipo para entender a fondo cada código y lograr una eficacia del 100%.**
+
+## 🚀  **¿A dónde me dirijo?** 
+Estoy plenamente enfocado en crecer tanto personal como profesionalmente.
+
+Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar y entender es que encontré ese mundo en el código, y es a lo que apunto en mi vida.
 
 ## 🌠 tengo conocimientos sobre:
 
@@ -36,11 +41,30 @@
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-### 🚀 Contactos:
+Entre estas herramientas, también dispongo de conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
+
+Además, tengo experiencia en herramientas de diseño como Photoshop, Figma entre otras.
+
+## ¡No dudes en contactarme!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maximiliano-horta/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brenda-panes/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-horta/" height="30" width="40" /></a>
 <a href="mailto:hortamaximiliano0@gmail.com "> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" align="center"
 height="40" width="40"> </a>
 </p>
+
+************
+
+*"La unión hace la fuerza; la discordia hace la debilidad."* - ***Séneca***
+
+*Es un recordatorio valioso de que el trabajo en equipo y la armonía son fundamentales para alcanzar el éxito y superar los desafíos.*
+
+---
+
+**¡Gracias por tu tiempo!** Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. 
+
+Contáctame para discutir oportunidades laborales o proyectos interesantes.
+
+
+
